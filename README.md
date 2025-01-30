@@ -1,2 +1,6 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Interesting Article on Coding Practices
+
+## Title: [10 Tips for Better Coding Practices](https://www.freecodecamp.org/news/10-tips-for-better-coding-practices/)
+
+### Description:
+This article, published on FreeCodeCamp, shares 10 actionable tips for improving your coding practices. It covers essential topics like code readability, the importance of comments, testing strategies, and maintaining clean code. These tips are helpful for both beginners and experienced developers, aiming to write efficient and maintainable code in both team and personal projects.
